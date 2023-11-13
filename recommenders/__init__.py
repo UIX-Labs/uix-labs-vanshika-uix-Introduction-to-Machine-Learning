@@ -8,4 +8,4 @@ data_ratings = pd.read_csv('data_files/ratings.csv')
 data_movies = pd.read_csv('data_files/movies.csv')
 
 data_ratings.head()
-data_ratings.head()
+data_movies.head()
